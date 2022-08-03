@@ -1,1 +1,47 @@
 # luchamask-smart-contract
+
+
+env file details
+
+MN_API_URL = "https://polygon-mumbai.g.alchemy.com/v2/6cvHXV5o-Kek7zcNnydkJKE3S95Zr5gC"
+RO_API_URL = "https://eth-ropsten.alchemyapi.io/v2/DSIprGEmMyWpZiGfKmPYvdYm76z9kM-7"
+RB_API_URL = "https://eth-rinkeby.alchemyapi.io/v2/kRLYSPWHxyi5CnMP3YFP_zs1f2UaTSK1"
+BSC_API_URL= "https://data-seed-prebsc-1-s1.binance.org:8545"
+
+MN_PUBLIC_KEY_OWNER = "?"
+MN_PRIVATE_KEY_OWNER = "1d1d351f19e633d1db52572d3adc14a119c425b8652a82bd70ba05937e7a2e0e"
+
+RO_PUBLIC_KEY_OWNER = "?"
+RO_PRIVATE_KEY_OWNER = "1d1d351f19e633d1db52572d3adc14a119c425b8652a82bd70ba05937e7a2e0e"
+
+RB_PUBLIC_KEY_OWNER = "?"
+RB_PRIVATE_KEY_OWNER = "1d1d351f19e633d1db52572d3adc14a119c425b8652a82bd70ba05937e7a2e0e"
+
+# TVK_CONTRACT = "?" # mumbai
+
+TVK_CONTRACT = "0x4731703e48D3044AfAFfaEb83202087408AC2390" 
+
+MAX_TOKENS=10000
+START_FROM = 1
+
+# Add it here after deployment
+# MASK_CONTRACT = "?" # mumbai
+MASK_CONTRACT = "?" # rinkeby
+
+# CUSTOM_CONTRACT = "?" # mumbai
+CUSTOM_CONTRACT = "?" # rinkeby
+
+IPFS_BASE_PATH = "QmaKgUagrU8ieMwrjZpvmiZ1AaFuUeg26BawcsvBDMLW72"
+PROVENANCE_HASH = "f94378c0724a27f61d7f49363b7d693aae195ab4a2e106f932f9e1194e258e76" # of complete link
+IPFS_HIDDEN = "QmP9gMK7T8Ge7mMCNaR7GdHyNFsFByokRafZdb5KYmdvyk"
+
+MINT_PRICE=60000000000000000
+TOTAL_RESERVE=100
+name = "Testing"
+symbol = "TST"
+
+MIDDLE_CONTRACT = "?" # mumbai
+ETHERSCAN_API_KEY = "KB2H8V4P3ZBTI9A5G6UVU2T5JDNPGV79XZ"
+BSCSCAN_API_KEY = "B7ACH8Z617QYFEZ4FFIY1UBMK5PB2GMNZ5"
+
+
